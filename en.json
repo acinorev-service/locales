@@ -5,7 +5,9 @@
         "description": "The platform for play and create your own browser games. Talk. Create. Play!",
         "splashes": {
             "splash1": "GG!",
-            "splash2": "Have fun, dude!"
+            "splash2": "Have fun, dude!",
+            "splash3": "Keep it up brotha",
+            "splash4": "Really?"
         }
     }
 }
