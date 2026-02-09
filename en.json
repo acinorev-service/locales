@@ -2,6 +2,10 @@
     "seodata": {
         "title": "ACINOREV",
         "slogan": "Your shareground",
-        "description": "The platform for play and create your own browser games. Talk. Create. Play!"
+        "description": "The platform for play and create your own browser games. Talk. Create. Play!",
+        "splashes": {
+            "splash1": "GG!",
+            "splash2": "Have fun, dude!"
+        }
     }
 }
