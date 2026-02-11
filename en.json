@@ -9,5 +9,11 @@
             "splash3": "Keep it up brotha",
             "splash4": "Really?"
         }
+    },
+    "navigation": {
+        "home": "Home",
+        "games": "Games",
+        "messages": "Messages",
+        "create": "Create"
     }
 }
