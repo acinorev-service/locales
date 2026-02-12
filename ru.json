@@ -28,5 +28,11 @@
         "create": "Создать",
 
         "settings": "Настройки"
+    },
+    "legal-info": {
+        "tinn": "ИНН",
+        "selfemployed": "Самозанятый",
+        "individual-entrepreneur": "ИП",
+        "ltd": "ООО"
     }
 }

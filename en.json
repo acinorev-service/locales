@@ -28,5 +28,11 @@
         "create": "Create",
         
         "settings": "Settings"
+    },
+    "legal-info": {
+        "tinn": "TINN",
+        "selfemployed": "Self-employed",
+        "individual-entrepreneur": "IE",
+        "ltd": "Ltd"
     }
 }
