@@ -18,6 +18,9 @@
             "splash3": "That page is not existing"
         }
     },
+    "profile": {
+        "joinus": "Join us"
+    },
     "navigation": {
         "home": "Home",
         "games": "Games",
