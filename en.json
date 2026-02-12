@@ -22,6 +22,8 @@
         "home": "Home",
         "games": "Games",
         "messages": "Messages",
-        "create": "Create"
+        "create": "Create",
+        
+        "settings": "Settings"
     }
 }
