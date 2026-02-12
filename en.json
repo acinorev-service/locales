@@ -1,6 +1,6 @@
 {
     "seodata": {
-        "title": "ACINOREV",
+        "title": "Acinorev",
         "slogan": "Your shareground",
         "description": "The platform for play and create your own browser games. Talk. Create. Play!",
         "splashes": {
@@ -8,6 +8,14 @@
             "splash2": "Have fun, dude!",
             "splash3": "Keep it up brotha",
             "splash4": "Really?"
+        }
+    },
+    "errors": {
+        "goback": "Hop back!",
+        "404": {
+            "splash1": "You have lost!",
+            "splash2": "Not right direction",
+            "splash3": "That page is not existing"
         }
     },
     "navigation": {
