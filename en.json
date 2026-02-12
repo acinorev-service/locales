@@ -30,6 +30,7 @@
         "settings": "Settings"
     },
     "legal-info": {
+        "legalinfo": "Legal information",
         "tinn": "TINN",
         "selfemployed": "Self-employed",
         "individual-entrepreneur": "IE",

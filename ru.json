@@ -30,6 +30,7 @@
         "settings": "Настройки"
     },
     "legal-info": {
+        "legalinfo": "Юридическая информация",
         "tinn": "ИНН",
         "selfemployed": "Самозанятый",
         "individual-entrepreneur": "ИП",
