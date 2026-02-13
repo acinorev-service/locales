@@ -29,6 +29,9 @@
         
         "settings": "Settings"
     },
+    "buttons": {
+        "play": "Play"
+    },
     "legal-info": {
         "legalinfo": "Legal information",
         "tinn": "TINN",

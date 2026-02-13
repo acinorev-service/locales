@@ -29,6 +29,9 @@
 
         "settings": "Настройки"
     },
+    "buttons": {
+        "play": "Играть"
+    },
     "legal-info": {
         "legalinfo": "Юридическая информация",
         "tinn": "ИНН",
