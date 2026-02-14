@@ -41,5 +41,9 @@
         "selfemployed": "Самозанятый",
         "individual-entrepreneur": "ИП",
         "ltd": "ООО"
+    },
+    "underconstruction": {
+        "title": "Пока недоступно",
+        "description": "Мы ещё пока-что работаем над этим разделом :)"
     }
 }

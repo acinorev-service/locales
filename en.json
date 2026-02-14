@@ -41,5 +41,9 @@
         "selfemployed": "Self-employed",
         "individual-entrepreneur": "IE",
         "ltd": "Ltd"
+    },
+    "underconstruction": {
+        "title": "Under construction",
+        "description": "We are currently working on that part :)"
     }
 }
