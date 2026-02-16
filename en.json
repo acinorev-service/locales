@@ -45,5 +45,12 @@
     "underconstruction": {
         "title": "Under construction",
         "description": "We are currently working on that part :)"
+    },
+    "settings": {
+        "language": "Language preferences"
+    },
+    "locales": {
+        "en": "English",
+        "ru": "Русский"
     }
 }

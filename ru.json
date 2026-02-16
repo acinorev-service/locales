@@ -45,5 +45,12 @@
     "underconstruction": {
         "title": "Пока недоступно",
         "description": "Мы ещё пока-что работаем над этим разделом :)"
+    },
+    "settings": {
+        "language": "Выбор языка"
+    },
+    "locales": {
+        "en": "English",
+        "ru": "Русский"
     }
 }
