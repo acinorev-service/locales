@@ -23,7 +23,18 @@
         "title": "Store games"
     },
     "profile": {
-        "joinus": "Join us"
+        "joinus": "Join us",
+        "auth": {
+            "fields": {
+                "username": "Username",
+                "password": "Password",
+                "repeat-password": "Repeat password"
+            },
+            "login": "Log in",
+            "signup": "Sign up",
+            "login-description": "Welcome back hero!",
+            "firsttime": "First time here? Sign up"
+        }
     },
     "navigation": {
         "home": "Home",
