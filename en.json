@@ -12,6 +12,7 @@
     },
     "errors": {
         "goback": "Hop back!",
+        "search-not-found": "No matching data",
         "404": {
             "splash1": "You have lost!",
             "splash2": "Not right direction",
@@ -46,8 +47,14 @@
         "title": "Under construction",
         "description": "We are currently working on that part :)"
     },
+    "search": {
+        "placeholder": "Search..."
+    },
     "settings": {
-        "language": "Language preferences"
+        "language": {
+            "title": "Language preferences",
+            "description": "Choose the language for interface"
+        } 
     },
     "locales": {
         "en": "English",
