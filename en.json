@@ -34,6 +34,7 @@
             "register": "Register",
             "signup": "Sign up",
             "login-description": "Welcome back hero!",
+            "register-description": "Start your own journey",
             "firsttime": "First time here? Sign up",
             "alreadyhave": "Already have an account? Log in"
         }
@@ -67,10 +68,19 @@
         "language": {
             "title": "Language preferences",
             "description": "Choose the language for interface"
-        } 
+        },
+        "themes": {
+            "title": "Themes",
+            "description": "Choose better looking for you color scheme"
+        }
     },
     "locales": {
         "en": "English",
         "ru": "Русский"
+    },
+    "themes": {
+        "system": "System",
+        "light": "Light",
+        "dark": "Dark"
     }
 }
