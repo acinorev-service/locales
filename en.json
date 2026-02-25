@@ -82,5 +82,12 @@
         "system": "System",
         "light": "Light",
         "dark": "Dark"
+    },
+    "play": {
+        "title": "Many games",
+        "info": {
+            "released": "Released on",
+            "developer": "Developer"
+        }
     }
 }
