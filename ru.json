@@ -85,6 +85,7 @@
     },
     "play": {
         "title": "Много игр",
+        "play-mobile": "Играй на телефоне",
         "info": {
             "released": "Выпущена",
             "developer": "Разработчик"

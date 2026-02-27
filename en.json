@@ -85,6 +85,7 @@
     },
     "play": {
         "title": "Many games",
+        "play-mobile": "Play on mobile",
         "info": {
             "released": "Released on",
             "developer": "Developer"
