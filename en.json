@@ -37,7 +37,10 @@
             "register-description": "Start your own journey",
             "firsttime": "First time here? Sign up",
             "alreadyhave": "Already have an account? Log in"
-        }
+        },
+        "follow-button": "Follow",
+        "followers": "Dudes",
+        "member-since": "Member since"
     },
     "navigation": {
         "home": "Home",

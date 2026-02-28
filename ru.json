@@ -37,7 +37,10 @@
             "register-description": "Начни свой путь",
             "firsttime": "Впервый здесь? Создать аккаунт",
             "alreadyhave": "Уже есть аккаунт? Войти"
-        }
+        },
+        "follow-button": "Отслеживать",
+        "followers": "Кенты",
+        "member-since": "Прибыл"
     },
     "navigation": {
         "home": "Главная",
