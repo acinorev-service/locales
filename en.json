@@ -8,7 +8,8 @@
             "splash2": "Have fun, dude!",
             "splash3": "Keep it up brotha",
             "splash4": "Really?"
-        }
+        },
+        "current-users": "Currently playing"
     },
     "errors": {
         "goback": "Hop back!",
