@@ -47,7 +47,6 @@
         "games": "Игры",
         "messages": "Сообщения",
         "create": "Создать",
-
         "settings": "Настройки"
     },
     "buttons": {
@@ -66,6 +65,21 @@
     },
     "search": {
         "placeholder": "Поиск..."
+    },
+    "file-upload": {
+        "title": "Нажмите или перенесите сюда файлы",
+        "placeholder": "Максимальный размер файла {size}",
+        "placeholder-extensions": "принимаються форматы {extensions}",
+        "errors": {
+            "size-limit": "Файл больше ограничения по размеру",
+            "zero-size": "Невозможно загрузить пустой файл",
+            "wrong-extension": "Неверное расширение файла"
+        }
+    },
+    "create": {
+        "title": "Загрузка новой игры",
+        "game-files": "Загрузите игровые файлы",
+        "thumbnail-upload": "Загрузите баннер"
     },
     "settings": {
         "language": {
@@ -86,6 +100,9 @@
         "light": "Светлая",
         "dark": "Тёмная"
     },
+    "crud": {
+        "upload": "Загрузить"
+    },
     "play": {
         "title": "Много игр",
         "play-mobile": "Играй на телефоне",
@@ -93,5 +110,14 @@
             "released": "Выпущена",
             "developer": "Разработчик"
         }
+    },
+    "table": {
+        "id": "Идентификатор",
+        "title": "Название",
+        "description": "Описание",
+        "category": "Категория"
+    },
+    "uom": {
+        "megabyte": "Мб"
     }
 }

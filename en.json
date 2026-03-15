@@ -48,7 +48,6 @@
         "games": "Games",
         "messages": "Messages",
         "create": "Create",
-        
         "settings": "Settings"
     },
     "buttons": {
@@ -68,6 +67,16 @@
     "search": {
         "placeholder": "Search..."
     },
+    "file-upload": {
+        "title": "Press or Drag & Drop the files right here",
+        "placeholder": "The max size is {size}",
+        "placeholder-extensions": "accepts an {extensions}",
+        "errors": {
+            "size-limit": "You crossed over the size limit",
+            "zero-size": "Cannot upload empty file",
+            "wrong-extension": "Wrong extension"
+        }
+    },
     "settings": {
         "language": {
             "title": "Language preferences",
@@ -78,6 +87,12 @@
             "description": "Choose better looking for you color scheme"
         }
     },
+    "create": {
+        "studio-title": "Developer studio",
+        "title": "Create the new game",
+        "game-files": "Upload game files",
+        "thumbnail-upload": "Upload the thumbnail"
+    },
     "locales": {
         "en": "English",
         "ru": "Русский"
@@ -87,6 +102,9 @@
         "light": "Light",
         "dark": "Dark"
     },
+    "crud": {
+        "upload": "Upload"
+    },
     "play": {
         "title": "Many games",
         "play-mobile": "Play on mobile",
@@ -94,5 +112,14 @@
             "released": "Released on",
             "developer": "Developer"
         }
+    },
+    "table": {
+        "id": "Identifier",
+        "title": "Title",
+        "description": "Description",
+        "category": "Category"
+    },
+    "uom": {
+        "megabyte": "Mb"
     }
 }
