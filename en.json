@@ -114,10 +114,17 @@
         }
     },
     "table": {
+        "crud": {
+            "actions": "Actions"
+        },
         "id": "Identifier",
         "title": "Title",
         "description": "Description",
-        "category": "Category"
+        "category": "Category",
+        "players": "Players",
+        "plays": "Plays",
+        "status": "Status",
+        "published": "Published"
     },
     "uom": {
         "megabyte": "Mb"
