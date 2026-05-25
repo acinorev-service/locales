@@ -126,6 +126,14 @@
         "status": "Status",
         "published": "Published"
     },
+    "legal": {
+        "_": "Legal information",
+        "list": {
+            "community": "Community guidelines",
+            "terms-of-service": "Terms of service",
+            "personal-data": "Personal data processing"
+        }
+    },
     "uom": {
         "megabyte": "Mb"
     }
